@@ -1,0 +1,9 @@
+
+* {font-family: Helvetica, Calibri, sans-serif;}
+		
+div {padding:10px;}
+.navbar {background-color:#545454;}
+
+.bio {display:flex;flex-direction:row;}
+
+.bio-item {justify-content:space-between;}
